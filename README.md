@@ -3,7 +3,7 @@
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
 
-**Blog Post** : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
+
 
 **Tableau  Dashboard Link** :  [Here](https://public.tableau.com/app/profile/poojapatel26/viz/SupplyChainAnalytics_16964651727060/SupplyChainAnalytics)
 
@@ -75,7 +75,7 @@ Warehouse Inventory: Information on inventory management for each product name i
 
 **4 Order Fulfillment Days:**
 
-Detailed analysis including feature metric, Key insights and suggestion can be found of medium Blog Post : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
+
 
 ## Sugesstions 
 
